@@ -7,14 +7,14 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/status"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="20sp"
-        android:padding="5sp"
-        android:text="@string/initial_status"
-        android:gravity="center"/>
+    <!--<TextView-->
+        <!--android:id="@+id/status"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textSize="20sp"-->
+        <!--android:padding="5sp"-->
+        <!--android:text="@string/initial_status"-->
+        <!--android:gravity="center"/>-->
 
     <ImageView
         android:id="@+id/drumset"
